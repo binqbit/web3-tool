@@ -1,0 +1,4 @@
+pyperclip
+dotenv
+web3
+eth_account
